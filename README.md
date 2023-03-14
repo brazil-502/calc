@@ -13,5 +13,4 @@ Team -
 <br>
 * brazil_502
 <br>
-One who suffered trying to figure out how to use args parameter -
-* brazil_502
+
