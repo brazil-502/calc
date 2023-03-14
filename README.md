@@ -1,6 +1,7 @@
 # Title
 **Calc** is a simple calculator in python which is good enough for skid like me.
-it is my first real python project which I upload to
+<br>
+It is my first real python project which I upload to
 # How to use it?
 * Install the ```calc.py``` file.
 * Run it.
